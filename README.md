@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Uttkarshchambiyal/SwiftUI">
-<img src="assets/hero.gif" alt="Handwritten hello animating above Made with SwiftUI, with a wave-animated dither Earth and a softly breathing crimson Horizon Glow background" width="100%" />
+<img src="assets/swiftui-hello-horizon.gif" alt="Handwritten hello animating above Made with SwiftUI, with a wave-animated dither Earth and a softly breathing crimson Horizon Glow background" width="100%" />
 </a>
 
 <br />
