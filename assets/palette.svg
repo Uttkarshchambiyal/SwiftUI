@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="132" viewBox="0 0 1200 132" role="img" aria-label="SwiftUI color palette">
-<defs><clipPath id="r"><rect width="1200" height="132" rx="16"/></clipPath></defs>
-<g clip-path="url(#r)">
-<path fill="#F52929" d="M0 0h240v132H0z"/><path fill="#FB6A60" d="M240 0h240v132H240z"/><path fill="#FDA096" d="M480 0h240v132H480z"/><path fill="#F7F4EC" d="M720 0h240v132H720z"/><path fill="#26211E" d="M960 0h240v132H960z"/>
-</g>
-<g font-family="monospace" font-size="14" fill="#26211E"><text x="22" y="99">01 / CRIMSON</text><text x="262" y="99">02 / CORAL</text><text x="502" y="99">03 / PEACH</text><text x="742" y="99">04 / PARCHMENT</text><text x="982" y="99" fill="#F7F4EC">05 / INK</text></g>
-</svg>

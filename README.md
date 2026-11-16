@@ -1,101 +1,142 @@
 <div align="center">
 
-<img src="assets/hero.gif" alt="SwiftUI — an animated LED Earth floating above a breathing crimson Horizon Glow gradient" width="100%" />
+<a href="https://github.com/Uttkarshchambiyal/SwiftUI">
+<img src="assets/hero.gif" alt="Handwritten hello animating above Made with SwiftUI, with a wave-animated dither Earth and a softly breathing crimson Horizon Glow background" width="100%" />
+</a>
 
 <br />
 
-**LIGHT IN MOTION. IDEAS IN SWIFTUI.**
+# SwiftUI
 
-A personal canvas for expressive interfaces, thoughtful motion, and small details that make a screen feel alive.
+### Small projects. Thoughtful interfaces.
 
-<br />
-
-[![SwiftUI](https://img.shields.io/badge/SwiftUI-A%20different%20frequency-F52929?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
-[![Visual foundation](https://img.shields.io/badge/Status-Visual%20foundation-26211E?style=for-the-badge)](#the-direction)
+A collection of my Apple SwiftUI projects, interface experiments, and things I learn by building.
 
 <br />
 
-[The visual DNA](#the-visual-dna) &nbsp; / &nbsp; [The palette](#the-palette) &nbsp; / &nbsp; [The direction](#the-direction)
+[![Swift](https://img.shields.io/badge/Swift-F52929?style=for-the-badge&logo=swift&logoColor=white)](https://www.swift.org/)
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-26211E?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
+[![Xcode](https://img.shields.io/badge/Xcode-FDA096?style=for-the-badge&logo=xcode&logoColor=26211E)](https://developer.apple.com/xcode/)
+
+<br />
+
+[Explore the projects](#explore-the-projects) &nbsp; · &nbsp; [Inside the collection](#inside-the-collection) &nbsp; · &nbsp; [Run a project](#run-a-project)
 
 </div>
 
 <br />
 
-## A different frequency.
+## An idea. A view. Something real.
 
-Quiet surfaces. Electric details. A little curiosity.
+This is where I turn ideas into Apple interfaces — learning SwiftUI, trying different interactions, and paying attention to the details along the way.
 
-**SwiftUI** is a home for future interface experiments: playful interactions, expressive components, and motion with a sense of purpose. This first edition establishes the visual identity — a warm paper canvas meeting a field of digital light.
+Some projects will be small. Others will grow into fuller apps. Each one is another chance to understand the framework, make something useful, and build with more intention.
+
+> Clear layouts. Meaningful motion. Details worth getting right.
 
 <br />
 
-## The visual DNA
+## Inside the collection
 
 <table>
 <tr>
-<td width="50%">
-<img src="assets/signal.png" alt="NASA’s Apollo 17 Earth photograph reconstructed as luminous LED dots with crimson tint and chromatic glow" width="100%" />
-<br /><br />
-<strong>01 / THE SIGNAL</strong>
-<br /><br />
-A familiar world, seen differently. Sampled light becomes a constellation of LED dots, with flicker, bloom, scan lines, and a crimson afterglow.
-<br /><br />
+<td width="33%" valign="top">
+
+### 01 — Interfaces
+
+Layouts, reusable views, navigation, and components that make an app feel coherent.
+
 </td>
-<td width="50%">
-<img src="assets/horizon.png" alt="Horizon Glow: a soft crimson, coral, and peach dome rising from the bottom of a parchment canvas" width="100%" />
-<br /><br />
-<strong>02 / THE HORIZON</strong>
-<br /><br />
-A slow breath of color. Crimson fans into coral and peach, rising from a parchment surface with soft backlighting and a fine grain.
-<br /><br />
+<td width="33%" valign="top">
+
+### 02 — Interactions
+
+Animation, gestures, transitions, and the small responses that make a screen feel alive.
+
+</td>
+<td width="33%" valign="top">
+
+### 03 — Projects
+
+Putting the pieces together: turning a concept into an app, one working feature at a time.
+
 </td>
 </tr>
 </table>
 
-The animated cover combines both studies. These are bundled image assets, so the effect plays directly on GitHub without scripts or external embeds. The stills above offer a motion-free look at each treatment.
+<br />
+
+## Explore the projects
+
+**The collection starts here and grows as I add projects.**
+
+[Browse the repository →](https://github.com/Uttkarshchambiyal/SwiftUI)
+
+As projects arrive, their folders will be the starting point for source code, screenshots, setup notes, and any project-specific requirements. There are no app projects in this initial edition yet.
 
 <br />
 
-## The palette
+## Run a project
 
-<img src="assets/palette.svg" alt="Crimson #F52929 · Coral red #FB6A60 · Peach pink #FDA096 · Parchment #F7F4EC · Ink #26211E" width="100%" />
+Once a project has been added:
 
-| Color | Hex | Character |
-| :--- | :--- | :--- |
-| Crimson | `#F52929` | The spark |
-| Coral red | `#FB6A60` | The warmth |
-| Peach pink | `#FDA096` | The softness |
-| Parchment | `#F7F4EC` | Room to breathe |
-| Ink | `#26211E` | A grounded contrast |
+1. **Clone the collection.**
 
-<br />
+   ```bash
+   git clone https://github.com/Uttkarshchambiyal/SwiftUI.git
+   cd SwiftUI
+   ```
 
-## The direction
+2. **Choose a project** and read its setup notes.
+3. **Open its Xcode project or workspace.** For a Swift package, open its `Package.swift` instead.
+4. **Select the appropriate scheme and destination**, then build and run with **⌘R**.
 
-**Make the ordinary feel considered.**
-
-- **Interfaces** — clear hierarchy, generous space, and expressive details.
-- **Motion** — fluid transitions that guide the eye.
-- **Experiments** — small SwiftUI ideas with room to grow.
-
-*Current stage: README and visual identity. A runnable SwiftUI application is not included in this edition.*
+Use the Xcode version and deployment target specified by the individual project. Device builds may also need your signing team selected in Xcode.
 
 <br />
 
-## Inspiration & credits
+## The way I want to build
 
-Visual treatments re-created from the supplied recipes for **HANZO Network LED Dots** and **Horizon Glow**, inspired by [21st.dev ASCII](https://21st.dev/community/ascii) and [21st.dev Gradients](https://21st.dev/community/gradients).
-
-Earth photography: **NASA / Apollo 17 crew**, December 7, 1972 — [The Blue Marble](https://images.nasa.gov/details/as17-148-22727). The sample image is a NASA photograph; no affiliation or endorsement is implied.
+| Focus | What it means here |
+| :--- | :--- |
+| **Clarity** | Views with a clear purpose and layouts that are easy to understand. |
+| **Craft** | Thoughtful spacing, typography, color, and feedback. |
+| **Curiosity** | Trying an idea, understanding what happens, and refining it. |
+| **Progress** | Learning through projects and documenting what each one teaches me. |
 
 <br />
+
+<details>
+<summary><strong>A note about the cover</strong></summary>
+
+<br />
+
+The cover combines the supplied handwritten **Apple Hello** paths, the **Horizon Glow** gradient, and the **“nnnnn” dither** recipe into an animated image designed for GitHub Markdown.
+
+The handwriting traces on, the crimson dome gently swells, and a wave moves through the dithered photograph. These elements are the README’s visual identity; they are not advertised as app features.
+
+Visual inspiration: [21st.dev gradients](https://21st.dev/community/gradients) and [21st.dev ASCII](https://21st.dev/community/ascii). The handwritten paths come from the component supplied for this README.
+
+Photograph: NASA / Apollo 17 crew, [The Blue Marble](https://images.nasa.gov/details/as17-148-22727), December 7, 1972.
+
+[View the still cover](assets/cover.png) for a motion-free version.
+
+</details>
+
+<br />
+
+---
 
 <div align="center">
 
-**✳**
+<br />
 
-**A LITTLE LIGHT. A DIFFERENT FREQUENCY.**
+**Design. Build. Refine.**
 
-Created by [Uttkarsh Chambiyal](https://github.com/Uttkarshchambiyal)
+Learning by making things for Apple platforms.
+
+[Uttkarsh Chambiyal](https://github.com/Uttkarshchambiyal) &nbsp; / &nbsp; SwiftUI
+
+<br />
 
 </div>
